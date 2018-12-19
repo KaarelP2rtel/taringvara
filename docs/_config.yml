@@ -16,7 +16,7 @@
 title:
 email: kaarelp2rtel@gmail.com
 description:
-baseurl: "/taringvara/docs" # the subpath of your site, e.g. /blog
+baseurl: "/taringvara/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kaarelp2rtel
 
