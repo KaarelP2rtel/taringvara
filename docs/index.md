@@ -20,4 +20,5 @@ Siia tuleb kunagi mingi asjalikum tekst.
 ---
 <br/>
 [Diceware.com](http://www.diceware.com)  
-[Diceware & Passwords - Computerphile (YouTube)](https://www.youtube.com/watch?v=Pe_3cFuSw1E)
+[Diceware & Passwords - Computerphile (YouTube)](https://www.youtube.com/watch?v=Pe_3cFuSw1E)  
+[See projekt GitHubis](https://github.com/KaarelP2rtel/taringvara)
