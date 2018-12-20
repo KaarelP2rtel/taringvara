@@ -1,6 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+# Mis on täringvara?
+---
+<br/>
+Lorem Ipsum
+
+
+# Failid
+---
+<br/>
+### Täringvara salafraasid v0.1 [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvara.txt) ]
+
+## Vanemad versioonid
+
+# Lisa
+
+---
+<br/>
+[Diceware](www.diceware.com)  
+[Diceware & Passwords - Computerphile (YouTube)](https://www.youtube.com/watch?v=Pe_3cFuSw1E)
