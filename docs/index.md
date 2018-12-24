@@ -10,13 +10,15 @@ Täringvara on meetod, mis kasutab täringuid, et luua meeldejääv ja turvaline
 # Kasutamine
 ---
 <br/>
-Täringvara kasutamiseks on vaja vähemalt ühte kuuetahulist täringut. Täringute puudumisel on võimalik ka kasutada arvutit, aga see ei ole soovitatav. Selleks, et leida salafraasi jaoks sõna, tuleb täringut veeretada viis korda ja saadud silmade arvu järgi otsida nimekirjast vastav sõna. Seda protsessi tuleb korrata, kuni salafraasis on soovitud arv sõnu. Sõnad tuleb eraldada üksteisest tühikuga, ja tekkinud fraas ongi uus salafraas. 
+Täringvara kasutamiseks on vaja vähemalt ühte kuuetahulist täringut. Täringute puudumisel on võimalik ka kasutada arvutit, aga see ei ole soovitatav. Selleks, et leida salafraasi jaoks sõna, tuleb täringut veeretada viis korda ja saadud silmade arvu järgi otsida nimekirjast vastav sõna. Seda protsessi tuleb korrata, kuni salafraasis on soovitud arv sõnu. Sõnad tuleb eraldada üksteisest tühikuga, ja tekkinud fraas ongi uus salafraas.
+
+# Turvalisus
+Siia tuleb jutt sellest, kui turvaline on täringvara.
 # Failid
 ---
 <br/>
-## Täringvara sõnade nimekiri v0.1 [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvara.txt) ]
+## Täringvara sõnade nimekiri [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvara.txt) ]
 
-### Vanemad versioonid
 
 # Lisa
 
