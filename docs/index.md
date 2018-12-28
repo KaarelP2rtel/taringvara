@@ -18,7 +18,7 @@ Täringvara kasutamiseks on vaja vähemalt ühte kuuetahulist täringut. Täring
 Täringvara salafraasis on iga sõna üks 7776-st. See tähendab, et iga sõna toob kogu fraasi sisse 12.9 bitti entroopiat. 6 sõnaline salafraas sisaldaks sellisel juhul 77.4 bitti entroopiat. Võrdleme seda arvu tavalise salasõnaga, kus on suured ja väikesed tähed ning numbrid. Kasutades inglise keele tähestikku, teeb see kokku 26 tähte ja 10 numbrit, ehk 62 erinevat võimalikku sümbolit. See teeb 5.95 bitti entroopiat iga sümboli kohta. 77.4 / 5.95 = 13.  
 
 #### See tähendab, et üks 6 sõnaline täringvara salafraas on vähemalt sama tugev, kui 13 kohaline juhuslike suurte ja väikeste tähtede ning numbrite jada. 
-Kusjuures see eeldab, et potensiaalne häkker teab seda, et 
+Kusjuures see eeldab, et potensiaalne ründaja teab, et 
 + kasutatud on just täringvara meetodit
 + kasutusel on täpselt kuus sõna
 + sõnad on väikestes tähtedes ja tühikuga eraldatud.  
