@@ -56,6 +56,8 @@ Kui see info puudub, suureneb entroopia veelgi ja seeläbi ka salafraasi tugevus
 <br/>
 ## Täringvara sõnade nimekiri [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvara.txt) ]
 
+## Täringvara sõnade nimekiri 20 tahulisele täringule [ [pdf](files/TaringvaraD20.pdf) ][ [txt](files/taringvaraD20.txt) ]
+
 # Lisa  
 ---
 <br/>
