@@ -54,9 +54,11 @@ Kui see info puudub, suureneb entroopia veelgi ja seeläbi ka salafraasi tugevus
 # Failid  
 ---  
 <br/>
-## Täringvara sõnade nimekiri [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvara.txt) ]
+## Täringvara sõnade nimekiri [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvaraD6.txt) ]
 
 ## Täringvara sõnade nimekiri 20 tahulisele täringule [ [pdf](files/TaringvaraD20.pdf) ][ [txt](files/taringvaraD20.txt) ]
+
+## Ainult sõnad [ [txt](files/Taringvara.txt) ]
 
 # Lisa  
 ---
@@ -65,3 +67,12 @@ Kui see info puudub, suureneb entroopia veelgi ja seeläbi ka salafraasi tugevus
 [Diceware & Passwords - Computerphile (YouTube)](https://www.youtube.com/watch?v=Pe_3cFuSw1E)  
 [Entropy as a measure of password strength - Wikipedia](https://en.m.wikipedia.org/wiki/Password_strength#Entropy_as_a_measure_of_password_strength)  
 [See projekt GitHubis](https://github.com/KaarelP2rtel/taringvara)
+
+# Muudatused
+---
+<br/>
+## 2019-11-06 Nimekiri uuesti koostatud. 
+* Nimekirja lõpus olevad lisasõnad kärbitud, asendatud päris sõnadega. 
+* Tabelid nüüd viietulbalised.
+* Eemaldatud trükiviga.
+* Eemaldatud sõnad lühemad kui 4 tähte.
