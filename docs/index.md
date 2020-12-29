@@ -54,9 +54,9 @@ Kui see info puudub, suureneb entroopia veelgi ja seeläbi ka salafraasi tugevus
 # Failid  
 ---  
 <br/>
-## Täringvara sõnade nimekiri [ [pdf](files/Taringvara.pdf) ][ [txt](files/taringvaraD6.txt) ]
+## Täringvara sõnade nimekiri [ [pdf](files/Taringvara.pdf) ][ [txt](files/TaringvaraD6.txt) ]
 
-## Täringvara sõnade nimekiri 20 tahulisele täringule [ [pdf](files/TaringvaraD20.pdf) ][ [txt](files/taringvaraD20.txt) ]
+## Täringvara sõnade nimekiri 20 tahulisele täringule [ [pdf](files/TaringvaraD20.pdf) ][ [txt](files/TaringvaraD20.txt) ]
 
 ## Ainult sõnad [ [txt](files/Taringvara.txt) ]
 
@@ -71,6 +71,9 @@ Kui see info puudub, suureneb entroopia veelgi ja seeläbi ka salafraasi tugevus
 # Muudatused
 ---
 <br/>
+## 2020-12-29 Parandatud txt failide nimed.
+* D6 ja D20 txt failide nimed olid väikeste tähtetega.
+
 ## 2019-11-06 Nimekiri uuesti koostatud. 
 * Nimekirja lõpus olevad lisasõnad kärbitud, asendatud päris sõnadega. 
 * Tabelid nüüd viietulbalised.
